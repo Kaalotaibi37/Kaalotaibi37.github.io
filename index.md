@@ -13,7 +13,7 @@ Hi, I'm Khalid, A Computer Science student at Al-Imam Mohammad Ibn Saud Islamic 
  
  **Performance Bounceback**
  
- optimizing game that is extremely unperformant to a game that can run cosistently 90fps or above.
+ - optimizing game that is extremely unperformant to a game that can run cosistently 90fps or above.
 
 **Rube Goldberg Game**
 
