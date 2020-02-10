@@ -9,7 +9,7 @@ Hi, I'm Khalid, A Computer Science student at Al-Imam Mohammad Ibn Saud Islamic 
 - Intel Edge AI Scholarship Foundation Course
 - Bertelsmann Tech Scholarship Challenge Course - AI Track
 
- ***Projects
+ *** Projects
 
 
 
