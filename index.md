@@ -29,6 +29,7 @@ Hi, I'm Khalid, A Computer Science student at Al-Imam Mohammad Ibn Saud Islamic 
 ### Contacts
 
 Email: kaalotaibi37@gmail.com
+
 [Linkedin](https://www.linkedin.com/in/khalidalotaibi37/) 
 
 
