@@ -10,14 +10,23 @@ Hi, I'm Khalid, A Computer Science student at Al-Imam Mohammad Ibn Saud Islamic 
 - Bertelsmann Tech Scholarship Challenge Course - AI Track
 
  ### Projects
+ 
+ **Performance Bounceback**
+ optimizing game that is extremely unperformant to a game that can run cosistently 90fps or above. By using the following optimization:
+ - Using static and dynamic batching - Optimizing physics - Creating object pools - Caching variables and optimizing code
+ - Setting up lighting with MSAA - Baking lighting - Using light probes - Using the profiler for performance optimization
 
+**Rube Goldberg Game**
+
+ - Rube Goldberg Game is a fully-functional multi-platform high-immersion VR game. 
+ - It's a game that challenges players to create contraptions that solve physics puzzle.
+ 
+ 
    **Puzzler**
 
  - The project consists of a puzzle game that the user must be solved by himself. Inside the environment, the user will see five     orbs light up in a sequence. You win the game by using your Cardboard glasses, interacting with the orbs in the correct order.
  
-  **Rube Goldberg Game**
- - Rube Goldberg Game is a fully-functional multi-platform high-immersion VR game. 
- - It's a game that challenges players to create contraptions that solve physics puzzle.
+  
 
 
 
