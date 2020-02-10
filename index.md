@@ -1,6 +1,8 @@
 ## Khalid Alotaibi
 
-You can use the [editor on GitHub](https://github.com/Kaalotaibi37/Kaalotaibi37.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+###Summary
+
+Hi, I'm Khalid, A Computer Science student at Al-Imam Mohammad Ibn Saud Islamic University. I'm intersted in VR development. I recently developed a high immersion game for VR using Unity and SteamVR plugin.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
