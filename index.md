@@ -4,31 +4,17 @@
 
 Hi, I'm Khalid, A Computer Science student at Al-Imam Mohammad Ibn Saud Islamic University. I'm intersted in VR development. I recently developed a high immersion game for VR using Unity and SteamVR plugin.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Current Enrollment
 
-### Markdown
+Intel Edge AI Scholarship Foundation Course
+Bertelsmann Tech Scholarship Challenge Course - AI Track
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects
 
-```markdown
-Syntax highlighted code block
+#### Puzzler
+The project consists of a puzzle game that the user must be solved by himself. Inside the environment, the user will see five orbs light up in a sequence. You win the game by using your Cardboard glasses, interacting with the orbs in the correct order.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
