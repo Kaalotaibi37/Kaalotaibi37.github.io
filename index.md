@@ -1,6 +1,6 @@
 ## Khalid Alotaibi
 
-###Summary
+### Summary
 
 Hi, I'm Khalid, A Computer Science student at Al-Imam Mohammad Ibn Saud Islamic University. I'm intersted in VR development. I recently developed a high immersion game for VR using Unity and SteamVR plugin.
 
