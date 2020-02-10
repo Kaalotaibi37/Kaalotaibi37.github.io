@@ -4,7 +4,7 @@
 
 Hi, I'm Khalid, A Computer Science student at Al-Imam Mohammad Ibn Saud Islamic University. I'm intersted in VR development. I recently developed a high immersion game for VR using Unity and SteamVR plugin.
 
-### Current Enrollment
+### Current Enrollments
 
 - Intel Edge AI Scholarship Foundation Course
 - Bertelsmann Tech Scholarship Challenge Course - AI Track
