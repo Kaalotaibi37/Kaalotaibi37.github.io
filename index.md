@@ -12,6 +12,7 @@ Hi, I'm Khalid, A Computer Science student at Al-Imam Mohammad Ibn Saud Islamic 
  ### Projects
  
  **Performance Bounceback**
+ 
  optimizing game that is extremely unperformant to a game that can run cosistently 90fps or above. By using the following optimization:
  - Using static and dynamic batching - Optimizing physics - Creating object pools - Caching variables and optimizing code
  - Setting up lighting with MSAA - Baking lighting - Using light probes - Using the profiler for performance optimization
