@@ -29,7 +29,7 @@ The project consists of a puzzle game that the user must be solved by himself. I
  
   **Performance Bounceback**
  
- optimizing game that is extremely unperformant to a game that can run cosistently 90fps or above.
+ Optimizing game that is extremely unperformant to a game that can run cosistently 90fps or above.
 
 ### Contacts
 
