@@ -13,7 +13,7 @@ Hi, I'm Khalid, A Computer Science student at Al-Imam Mohammad Ibn Saud Islamic 
 
 - Data Visualization
 - VR Design
-- Programming Langauges ( Java, Basic experience in C#)
+- Programming Langauges ( Java and basic experience in C#)
 
 ### Projects
  
